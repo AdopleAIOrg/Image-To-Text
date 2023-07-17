@@ -10,7 +10,8 @@ This is an Image Captioning application that generates captions for uploaded ima
 
 **Install the required dependencies:**
 
-      Install the required dependencies:
+      pip install -r requirements.txt
+
 
 # Usage
 
